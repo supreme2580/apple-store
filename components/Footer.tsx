@@ -1,0 +1,54 @@
+function Footer() {
+  return (
+    <footer className="mt-10 max-w-screen space-x-10 flex flex-col mx-8 md:mx-16 py-4">
+        <div className="flex flex-row items-center space-x-4 mt-4">
+            <h2 className="text-3xl font-bold">Quick Links</h2>
+            <a href="" className="px-3 py-2 rounded-3xl bg-gray-200 whitespace-nowrap">Order Status</a>
+            <a href="" className="px-3 py-2 rounded-3xl bg-gray-200 whitespace-nowrap">Shopping help</a>
+            <a href="" className="px-3 py-2 rounded-3xl bg-gray-200 whitespace-nowrap">Returns</a>
+        </div>
+        <div className="my-10">
+            <p className="text-gray-500">* Pricing for iPhone 13 and iPhone 13 mini includes a $30 carrier instant discount that requires activation with AT&T, T-Mobile, Sprint, or Verizon. Available to qualified customers and requires 24-month installment loan when you select Citizens One or Apple Card Monthly Installments (ACMI) as payment type at checkout at Apple. iPhone activation required with AT&T, T-Mobile, Sprint, or Verizon for purchases made with ACMI at an Apple Store. Subject to credit approval and credit limit. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. Additional Apple Card Monthly Installments terms are in the Apple Card Customer Agreement. Additional iPhone Payments terms are here. ACMI is not available for purchases made online at special storefronts. The last month’s payment for each product will be the product’s purchase price, less all other payments at the monthly payment amount.
+
+** Offer is available for new subscribers who connect an eligible device to an Apple device running iOS 15 or iPadOS 15 or later, for a limited time only. Offer good for 3 months after eligible device pairing. Plan automatically renews at your region’s price per month until cancelled. No purchase necessary for current owners of eligible devices. Service availability varies by region. Restrictions and other terms apply.
+
+◊ Apple Card Monthly Installments (ACMI) is a 0% APR payment option available to select at checkout for certain Apple products purchased at Apple Store locations, apple.com(Opens in a new window), the Apple Store app, or by calling 1-800-MY-APPLE, and is subject to credit approval and credit limit. See https://support.apple.com/kb/HT211204(Opens in a new window) for more information about eligible products. Variable APRs for Apple Card other than ACMI range from 10.99% to 21.99% based on creditworthiness. Rates as of April 1, 2020. If you choose the pay-in-full or one-time-payment option for an ACMI eligible purchase instead of choosing ACMI as the payment option at checkout, that purchase will be subject to the variable APR assigned to your Apple Card. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. See the Apple Card Customer Agreement(Opens in a new window) for more information. ACMI is not available for purchases made online at the following special stores: Apple Employee Purchase Plan; participating corporate Employee Purchase Programs; Apple at Work for small businesses; Government, and Veterans and Military Purchase Programs, or on refurbished devices. iPhone activation required on iPhone purchases made at an Apple Store with one of these national carriers: AT&T, Sprint, Verizon, or T-Mobile.
+
+† Monthly pricing is available when you select Apple Card Monthly Installments (ACMI) as payment type at checkout at Apple, and is subject to credit approval and credit limit. Financing terms vary by product. Taxes and shipping are not included in ACMI and are subject to your card’s variable APR. See the Apple Card Customer Agreement for more information. ACMI is not available for purchases made online at special storefronts. The last month’s payment for each product will be the product’s purchase price, less all other payments at the monthly payment amount.
+
+To access and use all the features of Apple Card, you must add Apple Card to Wallet on an iPhone or iPad with the latest version of iOS or iPadOS. Update to the latest version by going to Settings {`>`} General {`>`} Software Update. Tap Download and Install.
+
+Available for qualifying applicants in the United States.
+
+Apple Card is issued by Goldman Sachs Bank USA, Salt Lake City Branch.
+
+1. AT&T Special Deal: Offer pricing will reflect application of AT&T trade‑in credit applied over 36 months after trade‑in of eligible smartphone. Requires upgrade of an existing line or activation of a new line and purchase of a new iPhone 13 mini, iPhone 13, iPhone 13 Pro, or iPhone 13 Pro Max on qualifying 36‑month 0% APR installment plan, subject to carrier credit qualification. AT&T Installment Plan with Next Up is not eligible for this promotion. $0 down for well-qualified customers only, or down payment may be required and depends on a variety of factors. Tax on full retail price due at sale. Requires activation on eligible unlimited plan. If you cancel eligible wireless service, credits will stop and you will owe the remaining device balance. Activation/Upgrade Fee: $30. Trade‑in device may not be on existing installment plan. Bill credits are applied as a monthly credit over the 36‑month installment plan. Credits start within 3 bills. Will receive catch‑up credits once credits start. Wireless line must be on an installment agreement, active, and in good standing for 30 days to qualify. Installment agreement starts when device is shipped. To get all credits, device must remain on agreement for entire term and you must keep eligible service on device for entire installment term. Limited‑time offer; subject to change. Limits: one trade‑in per qualifying purchase and one credit per line. May not be combinable with other offers, discounts, or credits. Purchase, financing, other limits, and restrictions apply. Price for iPhone 13 and iPhone 13 mini includes $30 AT&T instant discount. Activation required.
+T-Mobile/Sprint Special Deal: T‑Mobile/Sprint trade‑in credit in the form of a rebate with virtual prepaid card when you trade in a qualifying device. Limited-time offer; subject to change. Requires activation on any T‑Mobile/Sprint data plan and submission of a promo code at promotions.t-mobile.com. $200 rebate via virtual prepaid Mastercard® Card, which you can use online or in-store via accepted mobile payment apps; no cash access & expires in 6 months from issuance. Card is issued by Sunrise Banks N.A., Member FDIC, pursuant to a license from Mastercard International Incorporated. Mastercard is a registered trademark of Mastercard International Incorporated. Use of this card constitutes acceptance of the terms and conditions stated in the Cardholder Agreement. Lines must be active and in good standing when card is issued. Allow up to 2 billing cycles after fulfillment of offer requirements. Max 4 per account offer/discounted devices/account. May not be combined with some offers or discounts. Sales tax may be assessed on full value of new iPhone. Requires trade‑in of an iPhone XR or newer in good condition. Must be at least 18 to trade in. Apple or its trade‑in partners reserve the right to refuse or limit any trade‑in transaction for any reason. In‑store trade‑in requires presentation of a valid, government-issued photo ID (local law may require saving this information). In‑store promotion availability subject to local law; speak to a Specialist to learn more. Additional terms from Apple, T‑Mobile/Sprint, and Apple’s trade‑in partners may apply.
+Verizon Special Deal: Offer pricing will reflect application of Verizon's trade-in credit up to $440 (iPhone 13, iPhone 13 Pro, and iPhone 13 Pro Max) or $412 (iPhone 13 mini) or $425 (iPhone 12) or $375 (iPhone 12 mini) after trade-in of eligible smartphone. Savings comprised of (i) Apple instant trade-in credit at checkout and (il) Verizon monthly bill credits applied over 36 months. Customer must remain in the Verizon Device Payment Program for 36 months to receive the full benefit of the Verizon bill credits. Bill credits may take 1-2 bill cycles to appear. If it takes two cycles for bill credits to appear, you'll see the credit for the first cycle on your second bill in addition to that month's credit. Requires purchase and activation of a new iPhone 12 mini, iPhone 12, iPhone 13 mini, iPhone 13, iPhone 13 Pro, or iPhone 13 Pro Max with the Verizon Device Payment Program at 0% APR for 36 months, subject to carrier credit qualification, and iPhone availability and limits. Taxes and shipping not included in monthly price. Sales tax may be assessed on full value of new iPhone. Requires eligible unlimited service plan. Requires trade-in of eligible device in eligible condition. Must be at least 18 to trade-in. Apple or its trade-in partners reserve the right to refuse or limit any trade-in transaction for any reason. In-store trade-in requires presentation of a valid. government-issued photo ID (local law may require saving this information). In-store promotion availability subject to local law; speak to a Specialist to learn more. Limited- time offer; subject to change. Additional terms from Apple, Verizon, and Apple's trade-in partners may apply. Price for iPhone 12 mini, iPhone 12, iPhone 13 mini, and iPhone 13 includes $30 Verizon instant discount. Activation required.
+
+2. Special pricing available to qualified customers. To learn more about how to start qualifying toward special pricing, talk to an Apple Specialist in a store or give us a call at 1‑800‑MY‑APPLE.
+
+†† We approximate your location from your internet IP address by matching it to a geographic region or from the location entered during your previous visit to Apple.</p>
+        </div>
+        <hr />
+        <div className="flex flex-col p-4">
+            <p className="text-gray-500 py-4">More ways to shop: <span className="text-blue-500 hover:underline">Find an Apple Store </span>
+            or <span className="text-blue-500 hover:underline">other retailer</span> near you. Or call 1‑800‑MY‑APPLE.</p>
+            <hr />
+            <div className="flex flex-row justify-between">
+                <p className="text-gray-500">Copyright © 2022 Apple Inc. All rights reserved.</p>
+                <div className="text-gray-500 space-x-4">
+                    <a href="" className="text-gray-500 hover:underline">Privacy Policy</a> | 
+                    <a href="" className="text-gray-500 hover:underline">Terms of Use</a> | 
+                    <a href="" className="text-gray-500 hover:underline">Sales and Refunds</a> |
+                    <a href="" className="text-gray-500 hover:underline">Legal</a> | 
+                    <a href="" className="text-gray-500 hover:underline">Site Map</a>
+                </div>
+                <a href="" className="text-gray-500 hover:underline">United States</a>
+            </div>
+        </div>
+    </footer>
+  )
+}
+
+export default Footer
