@@ -31,11 +31,11 @@ Verizon Special Deal: Offer pricing will reflect application of Verizon's trade-
 †† We approximate your location from your internet IP address by matching it to a geographic region or from the location entered during your previous visit to Apple.</p>
         </div>
         <hr />
-        <div className="flex flex-col p-4">
-            <p className="text-gray-500 py-4">More ways to shop: <span className="text-blue-500 hover:underline">Find an Apple Store </span>
+        <div className="flex flex-col mx-4">
+            <p className="text-gray-500 my-4">More ways to shop: <span className="text-blue-500 hover:underline">Find an Apple Store </span>
             or <span className="text-blue-500 hover:underline">other retailer</span> near you. Or call 1‑800‑MY‑APPLE.</p>
             <hr />
-            <div className="flex flex-row justify-between">
+            <div className="flex flex-row justify-between mt-3">
                 <p className="text-gray-500">Copyright © 2022 Apple Inc. All rights reserved.</p>
                 <div className="text-gray-500 space-x-4">
                     <a href="" className="text-gray-500 hover:underline">Privacy Policy</a> | 

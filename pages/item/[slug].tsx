@@ -10,7 +10,7 @@ interface Props {
 
 export default function Items({item}: Props) {
   return (
-    <main className="absolute inset-y-0 inset-x-0">
+    <main className="overflow-x-hidden">
         <Header />
 
         <div className="flex flex-col md:flex-row max-w-7xl items-center justify-center px-10 lg:space-x-40 mt-14">
