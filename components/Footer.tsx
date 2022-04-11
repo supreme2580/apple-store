@@ -1,7 +1,7 @@
 function Footer() {
   return (
     <footer className="mt-10 max-w-screen space-x-10 flex flex-col mx-8 md:mx-16 py-4">
-        <div className="flex flex-row items-center space-x-4 mt-4">
+        <div className="flex flex-row items-center space-x-4 mt-4 mx-8">
             <h2 className="text-3xl font-bold">Quick Links</h2>
             <a href="" className="px-3 py-2 rounded-3xl bg-gray-200 whitespace-nowrap">Order Status</a>
             <a href="" className="px-3 py-2 rounded-3xl bg-gray-200 whitespace-nowrap">Shopping help</a>
